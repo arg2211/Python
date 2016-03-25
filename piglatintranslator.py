@@ -1,6 +1,9 @@
 '''
 code inspired by Codeacademy Python lesson called "PygLatin"
 available here: https://www.codecademy.com/learn/python
+
+run in command line by typing:
+python piglatintranslator.py
 '''
 
 print 'This is a Pig Latin Translator' #prints this string
